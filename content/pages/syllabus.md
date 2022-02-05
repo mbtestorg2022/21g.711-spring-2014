@@ -49,13 +49,66 @@ Películas: Se verán 3 películas fuera de las horas de clase.
 Requirements and Evaluation/Requisitos y Evaluación
 ---------------------------------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Asistencia y participación | 30 |
-| Tareas de communicación oral en Voicethread | 10 |
-| Trabajos escritos | 25 |
-| Exámenes | 30 |
-| Proyecto de investigación y presentación oral | 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Asistencia y participación
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tareas de communicación oral en Voicethread
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Trabajos escritos
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exámenes
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Proyecto de investigación y presentación oral
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  Asistencia y Participación: 30%
 
