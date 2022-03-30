@@ -4,6 +4,7 @@ description: "This file contains information regarding La campa\xF1a por la madr
   \ tierra."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/86f1618dbdf360c5b6445ad263341806_MIT21G_711S14_Madre.pdf
 file_type: application/pdf
+parent_uid: e8819392-28e0-b281-0006-575af3b4858f
 resourcetype: Document
 title: "La campa\xF1a por la madre tierra"
 uid: 86f1618d-bdf3-60c5-b644-5ad263341806

@@ -4,6 +4,7 @@ description: "This file contains the information regarding Electronic vigilance 
   \ clauses with \u201Csi\u201D."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-711-advanced-spanish-conversation-and-composition-spring-2014/fbe58a15729345d5d903af4439872a6d_MIT21G_711S14_vigilance.pdf
 file_type: application/pdf
+parent_uid: e8819392-28e0-b281-0006-575af3b4858f
 resourcetype: Document
 title: "Advanced Spanish Conversation and Composition: Electronic vigilance and clauses\
   \ with \u201Csi\u201D"

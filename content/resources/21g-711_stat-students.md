@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1949adc5-85dc-4cd0-a06b-5437dd001a86
 resourcetype: Image
 title: 21G-711_stat-students.png
 uid: 5282f7bc-5377-fa04-09d3-3f6926deea51

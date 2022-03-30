@@ -50,7 +50,7 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_21G.704 Spanish IV_](/courses/21g-704-spanish-iv-spring-2005/) or
+*   [_21G.704 Spanish IV_](/courses/21g-704-spanish-iv-spring-2005) or
 *   21G.774 Spanish IV Globalization or
 *   Permission of instructor
 
